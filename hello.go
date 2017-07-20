@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gorilla/mux"
 	"html/template"
+
+	"github.com/gorilla/mux"
 )
 
 func init() {
